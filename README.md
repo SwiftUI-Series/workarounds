@@ -1,6 +1,6 @@
 ![Artboard](https://www.swiftuiseries.com/images/events/banner-workarounds.png)
 
-# macOS
+# Workarounds
 
 Do you know every little hack to get around the growing pains of SwiftUI? In this event you will have to get creative! Show off your favorite SwiftUI workaround in a simple project. Explain why your workaround is necessary, and (optionally) compare it to UIKit/AppKit. If you want to record a little video that would be even better!
 
