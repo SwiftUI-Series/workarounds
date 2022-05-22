@@ -19,6 +19,6 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 
 | Link to Code  | Attendee Name    | Twitter                                   | Pro / Beginner |
 | ------------- |:----------------:| ------------------------------------------------:|--------:|
-| [Link to repo](https://github.com/Yrban/ListWithSnapTo)  | Bryan Marshall     | [@AlelinApps](https://twitter.com/AlelinApps)    | Pro |
+| [Link to repo](https://github.com/diegolavalledev/swiftui-series-workarounds-submission)  | Diego Lavalle     | [@diegolavalledev](https://twitter.com/diegolavalledev)    | Pro |
 
 
