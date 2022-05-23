@@ -23,5 +23,7 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 | [Link to repo](https://github.com/diegolavalledev/swiftui-series-workarounds-submission)  | Diego Lavalle     | [@diegolavalledev](https://twitter.com/diegolavalledev)    | Pro |
 | [Link to repo](https://github.com/diliedevs/SwiftUISeries/tree/main/Workarounds)  | Dionne Lie Sam Foek     | [@DionneLie](https://twitter.com/DionneLie)    | Beginner |
 | [Link to repo](https://github.com/nlabarbera/SwiftUIMultiSelect)  | Nathan La Barbera     | --    | Pro |
+| [Link to repo](https://github.com/ryanlintott/RotationMatchingOrientation)  | Ryan Lintott     | [@ryanlintott](https://twitter.com/ryanlintott)    | Pro |
+
 
 
