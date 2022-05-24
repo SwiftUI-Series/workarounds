@@ -17,15 +17,15 @@ Do you know every little hack to get around the growing pains of SwiftUI? In thi
 
 Once you've uploaded your code to a public GitHub repo, make a PR and add a link below.
 
-| Link to Code  | Attendee Name    | Twitter                                   | Pro / Beginner |
-| ------------- |:----------------:| ------------------------------------------------:|--------:|
-[Link to repo](https://github.com/Yrban/ListWithSnapTo)  | Bryan Marshall     | [@AlelinApps](https://twitter.com/AlelinApps)    | Pro |
-| [Link to repo](https://github.com/diegolavalledev/swiftui-series-workarounds-submission)  | Diego Lavalle     | [@diegolavalledev](https://twitter.com/diegolavalledev)    | Pro |
-| [Link to repo](https://github.com/diliedevs/SwiftUISeries/tree/main/Workarounds)  | Dionne Lie Sam Foek     | [@DionneLie](https://twitter.com/DionneLie)    | Beginner |
-| [Link to repo](https://github.com/nlabarbera/SwiftUIMultiSelect)  | Nathan La Barbera     | --    | Pro |
-| [Link to repo](https://github.com/ryanlintott/RotationMatchingOrientation)  | Ryan Lintott     | [@ryanlintott](https://twitter.com/ryanlintott)    | Pro |
-| [Link to repo](https://github.com/jegnux/SwiftUISeriesWorkaroundsAndHacks)  | Jérôme Alves     | [@jegnux](https://twitter.com/jegnux)    | Pro |
-| [Link to repo](https://github.com/WeDontNeedTo/Router-SwiftUIWorkaround)  | Danil Lomaev     | --   | Pro |
+| Link to Code  | Attendee Name    | Twitter                                   | Pro / Beginner | Winners |
+| ------------- |----------------| ------------------------------------------------|--------|----------|
+[Link to repo](https://github.com/Yrban/ListWithSnapTo)  | Bryan Marshall     | [@AlelinApps](https://twitter.com/AlelinApps)    | Pro |  |
+| [Link to repo](https://github.com/diegolavalledev/swiftui-series-workarounds-submission)  | Diego Lavalle     | [@diegolavalledev](https://twitter.com/diegolavalledev)    | Pro | |
+| [Link to repo](https://github.com/diliedevs/SwiftUISeries/tree/main/Workarounds)  | Dionne Lie Sam Foek     | [@DionneLie](https://twitter.com/DionneLie)    | Beginner | ⭐️ |
+| [Link to repo](https://github.com/nlabarbera/SwiftUIMultiSelect)  | Nathan La Barbera     | --    | Pro |  |
+| [Link to repo](https://github.com/ryanlintott/RotationMatchingOrientation)  | Ryan Lintott     | [@ryanlintott](https://twitter.com/ryanlintott)    | Pro | ⭐️ |
+| [Link to repo](https://github.com/jegnux/SwiftUISeriesWorkaroundsAndHacks)  | Jérôme Alves     | [@jegnux](https://twitter.com/jegnux)    | Pro | |
+| [Link to repo](https://github.com/WeDontNeedTo/Router-SwiftUIWorkaround)  | Danil Lomaev     | --   | Pro | ⭐️ |
 
 
 
